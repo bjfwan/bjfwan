@@ -35,9 +35,5 @@
 </picture>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bjfwan&label=%E8%AE%BF%E9%97%AE%E9%87%8F&color=0e75b6&style=flat" alt="访问量" />
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
