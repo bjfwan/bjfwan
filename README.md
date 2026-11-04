@@ -9,10 +9,10 @@
 
 ### 📊 GitHub 数据
 
-<img src="profile-summary-card-output/github/0-profile-details.svg" alt="个人概览" width="49%" />
-<img src="profile-summary-card-output/github/3-stats.svg" alt="统计数据" width="49%" />
-<img src="profile-summary-card-output/github/1-repos-per-language.svg" alt="仓库语言分布" width="49%" />
-<img src="profile-summary-card-output/github/2-most-commit-language.svg" alt="提交语言排行" width="49%" />
+|  |  |
+|:---:|:---:|
+| ![个人概览](profile-summary-card-output/github/0-profile-details.svg) | ![统计数据](profile-summary-card-output/github/3-stats.svg) |
+| ![仓库语言分布](profile-summary-card-output/github/1-repos-per-language.svg) | ![提交语言排行](profile-summary-card-output/github/2-most-commit-language.svg) |
 
 ### 🐍 活跃热力
 
