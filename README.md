@@ -4,13 +4,15 @@
 
 ### 🏆 代表作品
 
-<a href="https://github.com/bjfwan/yinxing"><img height="115" src="https://github-readme-stats.vercel.app/api/pin?username=bjfwan&repo=yinxing&hide_border=true" /></a>
-<a href="https://github.com/bjfwan/windsurf-helper-opensource"><img height="115" src="https://github-readme-stats.vercel.app/api/pin?username=bjfwan&repo=windsurf-helper-opensource&hide_border=true" /></a>
+- [yinxing](https://github.com/bjfwan/yinxing)
+- [windsurf-helper-opensource](https://github.com/bjfwan/windsurf-helper-opensource)
 
 ### 📊 GitHub 数据
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bjfwan&show_icons=true&hide_border=true&count_private=true&locale=cn&hide_rank=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjfwan&layout=compact&hide_border=true&langs_count=6&locale=cn" />
+<img src="profile-summary-card-output/github/0-profile-details.svg" alt="个人概览" width="49%" />
+<img src="profile-summary-card-output/github/3-stats.svg" alt="统计数据" width="49%" />
+<img src="profile-summary-card-output/github/1-repos-per-language.svg" alt="仓库语言分布" width="49%" />
+<img src="profile-summary-card-output/github/2-most-commit-language.svg" alt="提交语言排行" width="49%" />
 
 ### 🐍 活跃热力
 
