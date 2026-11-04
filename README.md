@@ -1,7 +1,7 @@
 ### 👋 你好，我是 bjfwan
 
 
-### 🏆 代表作品
+### 🏆 我的项目
 
 - [yinxing](https://github.com/bjfwan/yinxing)
 - [windsurf-helper-opensource](https://github.com/bjfwan/windsurf-helper-opensource)
