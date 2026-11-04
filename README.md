@@ -12,7 +12,6 @@
 |  |  |
 |:---:|:---:|
 | ![个人概览](profile-summary-card-output/github/0-profile-details.svg) | ![统计数据](profile-summary-card-output/github/3-stats.svg) |
-| ![仓库语言分布](profile-summary-card-output/github/1-repos-per-language.svg) | ![提交语言排行](profile-summary-card-output/github/2-most-commit-language.svg) |
 
 ### 🐍 活跃热力
 
