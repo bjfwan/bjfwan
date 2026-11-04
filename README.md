@@ -1,6 +1,5 @@
 ### 👋 你好，我是 bjfwan
 
-主攻安卓应用与微信小程序（uni-app x），技术栈：Vue 3 · TypeScript · Kotlin · Rust · Go。
 
 ### 🏆 代表作品
 
